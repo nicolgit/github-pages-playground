@@ -17,4 +17,4 @@ this is a bullet list
   </tr>
 </table>
 
-<a href="prova.html"/>vai alla pagina di prova</a>
+<a href="prova.html">vai alla pagina di prova</a>
